@@ -14,13 +14,13 @@ Teraz je rad na tebe, ideme robiť príklady a trénovať prax.
 
 Otvor si prosím tento [link](https://runjs.co/) v novom okne, kde si môžeš javascript skúšať alebo iný ekvivalent.
 
-## Koľko míl je 80km?
+## Koľko míľ je 80km?
 
 Vždy ukážem nejaký kód a následne si postupne prejdeme jednotlivé koncepty a rozdrobíme si to.
 
 
 ```js
-// 1 míla je 1.60934 km
+// 1 míľa je 1.60934 km
 let vzdialenostKm = 80
 let vzdialenostMile = vzdialenostKm / 1.60934
 

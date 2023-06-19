@@ -13,7 +13,7 @@ Navrhujem, aby sme to opravili a popri tom sa naučili, ako navedieme program sa
 Poďme opraviť náš predošlí program.
 
 ```js
-// 1 míla je 1.60934 km
+// 1 míľa je 1.60934 km
 let vzdialenostKm = prompt("Zadaj vzdialenosť v km")
 
 // ak je vzdialenostKm číslo, tak urob výpočet a vypíš pomocou console.log

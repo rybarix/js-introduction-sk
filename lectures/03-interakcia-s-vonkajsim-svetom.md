@@ -42,7 +42,7 @@ Stroju je to jedno v akej podobe ho dostane, pokiaľ to čo je v kóde napísane
 Teraz ideme upraviť náš pôvodný program z 2. lekcie:
 
 ```js
-// 1 míla je 1.60934 km
+// 1 míľa je 1.60934 km
 let vzdialenostKm = 80
 let vzdialenostMile = vzdialenostKm / 1.60934
 
@@ -56,7 +56,7 @@ Otázka: vieš upraviť program, tak že si program vypýta vzdialenosť v kilom
 <summary><strong>Riešenie</strong></summary>
 
 ```js
-// 1 míla je 1.60934 km
+// 1 míľa je 1.60934 km
 let vzdialenostKm = prompt("Zadaj vzdialenosť v km")
 let vzdialenostMile = vzdialenostKm / 1.60934
 
